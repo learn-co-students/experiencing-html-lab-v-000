@@ -52,7 +52,7 @@ A problem with our _content_ is that it doesn't explicitly state anywhere that
 it's a list.  In the example, *you* see a list of songs. *we* see a list of
 songs. But a browser doesn't know what a "list" is. 
 
-We need to help browser **know**  what a list is. The secret is to add "notes"
+We need to help a browser **know**  what a list is. The secret is to add "notes"
 or "breadcrumbs" to the content that tell the browser that it has list items
 and that these items "go together" in a list.  To add these "notes" we surround
 the _content_ with bits of _markup_, with bits of HTML. 
