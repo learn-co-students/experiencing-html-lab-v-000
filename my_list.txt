@@ -1,0 +1,8 @@
+"Labrador-Retriever"
+"Pit-Bull"
+"Mutts"
+"Cocker-Spaniel"
+"Terrier"
+"Deerhound"
+"Irish Wolf Hound"
+"Poodle"
