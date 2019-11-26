@@ -1,0 +1,6 @@
+"apples"
+"oranges"
+"grapes"
+"bananas"
+"pears"
+"plums"
