@@ -1,0 +1,7 @@
+Here we have a list of videogame consoles:
+NES
+SNES
+PS1
+PS2
+PS3
+PS4
